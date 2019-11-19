@@ -150,6 +150,7 @@ namespace ControlStock
             }
             else
             {
+
                 modo = "EDITAR";
                 DesbloquearFormulario();
                 txtNombre.Focus();
